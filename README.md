@@ -7,8 +7,10 @@
 - ✨ Fun fact: One thing I use every day that I could probably live without is my Converse All Stars
 - Agradecemos a preferência! | Thanks for visiting!
 
-<div> 
-  ![Snake animation](https://github.com/mariaeduardaxs/mariaeduardaxs/blob/output/github-contribution-grid-snake.svg)
+  ##
+ 
+<div>
+  [!Snake animation](https://github.com/mariaeduardaxs/mariaeduardaxs/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!---
 mariaeduardaxs/mariaeduardaxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
